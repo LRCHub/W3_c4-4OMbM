@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Six Days (Remix)",
+  "base_artist": "DJ Shadow",
+  "createdAt": "2025-12-26T05:26:49.784904Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Six Days (Remix)",
+      "artist": "DJ Shadow",
+      "has_synced": true,
+      "path": "select/01_Six_Days_(Remix)_DJ_Shadow.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Six Days (Remix)",
+      "artist": "DJ Shadow",
+      "has_synced": true,
+      "path": "select/02_Six_Days_(Remix)_DJ_Shadow.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Six Days (Remix)",
+      "artist": "DJ Shadow feat. Mos Def",
+      "has_synced": true,
+      "path": "select/03_Six_Days_(Remix)_DJ_Shadow_feat._Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Six Days (Remix) feat. Mos Def",
+      "artist": "DJ Shadow",
+      "has_synced": true,
+      "path": "select/04_Six_Days_(Remix)_feat._Mos_Def_DJ_Shadow.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Six Days (Remix) (feat. Mos Def)",
+      "artist": "DJ Shadow, Mos Def",
+      "has_synced": true,
+      "path": "select/05_Six_Days_(Remix)_(feat._Mos_Def)_DJ_Shadow,_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Six Days (Remix)",
+      "artist": "DJ Shadow",
+      "has_synced": true,
+      "path": "select/06_Six_Days_(Remix)_DJ_Shadow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Six Days - Remix",
+      "artist": "DJ Shadow feat. Mos Def",
+      "has_synced": true,
+      "path": "select/07_Six_Days_-_Remix_DJ_Shadow_feat._Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Six Days (remix)",
+      "artist": "DJ Shadow feat. Mos Def",
+      "has_synced": true,
+      "path": "select/08_Six_Days_(remix)_DJ_Shadow_feat._Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Six Days (Remix)",
+      "artist": "DJ Shadow",
+      "has_synced": true,
+      "path": "select/09_Six_Days_(Remix)_DJ_Shadow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Six Days - Remix",
+      "artist": "DJ Shadow/Mos Def",
+      "has_synced": true,
+      "path": "select/10_Six_Days_-_Remix_DJ_Shadow_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Six Days (Remix)",
+      "artist": "Dj Shadow, Mos Def",
+      "has_synced": true,
+      "path": "select/11_Six_Days_(Remix)_Dj_Shadow,_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Six Days (Remix)",
+      "artist": "Dj Shadow Feat. Mos Def",
+      "has_synced": true,
+      "path": "select/12_Six_Days_(Remix)_Dj_Shadow_Feat._Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Six Days (remix)",
+      "artist": "DJ Shadow feat. Mos Def",
+      "has_synced": true,
+      "path": "select/13_Six_Days_(remix)_DJ_Shadow_feat._Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Six Days (Remix) [feat. Mos Def]",
+      "artist": "DJ Shadow feat. Mos Def",
+      "has_synced": true,
+      "path": "select/14_Six_Days_(Remix)_[feat._Mos_Def]_DJ_Shadow_feat._Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Six Days (Remix)",
+      "artist": "djshadow",
+      "has_synced": true,
+      "path": "select/15_Six_Days_(Remix)_djshadow.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Six Days (Remix) (feat. Mos Def)",
+      "artist": "DJ Shadow",
+      "has_synced": true,
+      "path": "select/16_Six_Days_(Remix)_(feat._Mos_Def)_DJ_Shadow.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Six Days (remix)",
+      "artist": "Mos Def feat. DJ Shadow",
+      "has_synced": true,
+      "path": "select/17_Six_Days_(remix)_Mos_Def_feat._DJ_Shadow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Six Days Remix",
+      "artist": "DJ Shadow",
+      "has_synced": false,
+      "path": "select/pl_01_Six_Days_Remix_DJ_Shadow.txt"
+    }
+  ]
+}
