@@ -1,0 +1,72 @@
+# DJ Shadow – Six Days (Remix)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.37] I get a feeling there's gonna be a riot
+[00:20.87] 
+[00:07.93] I don't read the newspapers because they all have f- ugly prints
+[00:18.64] Tag me up
+[00:20.94] Tch, tag me up (bring it on)
+[00:23.78] Bring it on
+[00:25.05] Bring it on 'cause there's gon' be shit tonight!
+[00:27.20] At the starting of the week
+[00:30.15] At summit talks, you'll hear them speak
+[00:32.90] It's only Monday
+[00:39.08] Negotiations breaking down
+[00:41.48] See those leaders start to frown
+[00:44.28] It's sword and gun day
+[00:50.01] Tomorrow never comes until it's too late (come, come, come, come, come with it)
+[00:57.14] (Come, come, come, come, come with it)
+[01:00.68] You could be sitting taking lunch
+[01:03.56] The news will hit you like a punch
+[01:06.36] It's only Tuesday (what time is it?)
+[01:12.52] You never thought we'd go to war
+[01:15.04] After all the things we saw
+[01:17.73] It's April Fools' Day (what time is it?)
+[01:23.17] Tomorrow never comes until it's too late
+[01:29.62] Tomorrow never comes until it's too late
+[01:36.25] Tomorrow is another day
+[01:38.39] Today is another bomb
+[01:42.03] Tomorrow is another day
+[01:44.50] Today is another (bomb)
+[01:48.06] Tomorrow is another day
+[01:50.37] Today is another bomb
+[01:52.92] Tomorrow is another day
+[01:55.98] Today is another- (bomb)
+[02:07.98] 
+[02:17.48] Fire, you go, go shot
+[02:21.09] Escalation
+[02:21.72] Never Station
+[02:22.41] Generation
+[02:23.03] Separation
+[02:23.70] Situation
+[02:24.37] Dissipation
+[02:25.32] Shot!
+[02:26.64] Another shot, another shot the tender vessel pressure pop
+[02:29.05] The heart is cold, the gun is hot (shot)
+[02:32.20] I'm not sure if they done or not
+[02:33.71] I'm not sure that they wanna stop
+[02:35.04] The gun is cold, the blood is hot (shot) (shot, shot, shot, shot, shot, shot)
+[02:38.50] The hearts are weak, the guns are not
+[02:40.55] You hear a whistling overhead
+[02:43.83] Are you alive or are you dead?
+[02:46.27] It's only Thursday (what time is it?)
+[02:52.42] You feel the shaking on the ground
+[02:54.93] A million candles burn around
+[02:57.42] Is it your birthday? (What time is it?)
+[03:03.34] Tomorrow never comes until it's too late
+[03:08.32] Tryna be smart
+[03:10.84] Get tomorrow on the phone
+[03:12.68] Tomorrow never comes until it's too late (I need to see tomorrow)
+[03:17.11] Tryna reach tomorrow
+[03:20.78] Think tomorrows come I think it's too late
+[03:29.08] Another day!
+[03:33.36] Tomorrow is another day
+[03:44.86] 
+[03:39.20] Tomorrow is another day
+[03:50.70] 
+[03:45.89] Bring it on!
+[03:47.25] Bring it on!
+[03:48.81] Bring it on 'cause there's gon' be shit tonight!
+```
